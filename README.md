@@ -12,7 +12,7 @@ mkdir /home/mtproxy && cd /home/mtproxy
 curl -s -o mtproxy.sh https://raw.githubusercontent.com/sunpma/mtp/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
 ```
 
- ![demo.png](https://raw.githubusercontent.com/sunpma/mtp/master/demo.png)
+ ![demo.png](https://raw.githubusercontent.com/hadis898/MTProxy-TLS/main/demo.png)
 
 ## 使用
 
@@ -61,7 +61,3 @@ vi /etc/crontab
 @reboot root nohup bash /home/mtproxy/mtproxy.sh start > /dev/null 2>&1 &
 ```
 
-## 备用项目
-[备用项目一、](https://github.com/jing5460/MTProxy-TLS/blob/master/备用项目.md)
-
-[备用项目二、](https://github.com/jing5460/MTProxy)
