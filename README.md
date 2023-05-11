@@ -1,4 +1,4 @@
-# MTProxy TLS 绿色版一键安装脚本和t
+# MTProxy TLS 绿色版一键安装脚本
 
 ## 安装
 
